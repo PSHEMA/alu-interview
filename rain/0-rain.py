@@ -3,11 +3,13 @@
 """
 rain.py
 
-This script defines a function to calculate the amount of rainwater retained between walls.
+This script defines a function to 
+calculate the amount of rainwater retained between walls.
 
 Usage:
     - Call the 'rain' function with a list of wall heights as input.
 """
+
 
 def rain(walls):
     """
