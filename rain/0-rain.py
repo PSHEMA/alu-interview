@@ -3,7 +3,7 @@
 """
 rain.py
 
-This script defines a function to 
+This script defines a function to
 calculate the amount of rainwater retained between walls.
 
 Usage:
